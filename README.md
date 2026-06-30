@@ -66,7 +66,7 @@ repo-visualizer/
 ### 1 — Clone and enter the project
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/CJ1626/repo-visualizer.git
 cd repo-visualizer
 ```
 
